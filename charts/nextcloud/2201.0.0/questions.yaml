@@ -112,7 +112,7 @@ questions:
         - variable: hostPathConfiguration
           label: "Host Path Configuration"
           schema:
-            type: dict
+            type: data 
             attrs:
               - variable: hostPath
                 label: "Host Path"
