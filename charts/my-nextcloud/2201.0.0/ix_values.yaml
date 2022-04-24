@@ -1,0 +1,6 @@
+image:
+  pullPolicy: IfNotPresent
+  repository: linuxserver/nextcloud
+  tag: 23.0.4
+runAsGroup: 1000
+runAsUser: 1000
